@@ -1,5 +1,5 @@
 const HERO_SRC =
-  '/hero_main_1.png.png'
+  '/hero_main_1.webp'
 
 export default function HeroImage() {
   return (
