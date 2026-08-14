@@ -26,7 +26,7 @@ export default function HeroContent() {
   }, [])
 
   return (
-    <main className="relative z-20 flex flex-1 flex-col items-center justify-center px-4 pb-12 text-center sm:px-8 sm:pb-16 md:pb-20">
+    <main className="relative z-20 flex flex-1 flex-col items-center justify-center px-4 text-center sm:px-8">
       <h2 className="flex flex-col items-center leading-none">
         <span
           className="stroke-text font-display uppercase tracking-[0.08em]"
